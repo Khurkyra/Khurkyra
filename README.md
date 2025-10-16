@@ -1,5 +1,5 @@
-¡Hola! Soy Johanna Fuhrop 🌸
+🌸 ¡Hola! Soy Johanna Fuhrop 🌸  
 
-Actualmente me estoy especializando en gestionar y administrar bases de datos, tengo un largo camino que aprender, pero actualmente me estoy enfocando en Oracle y SQL Server.
-
-
+Apasionada por el mundo de las **bases de datos** y todo lo que implica mantener la información segura y bien estructurada.  
+Actualmente me estoy especializando en **Oracle** y **SQL Server**,  
+aprendiendo día a día para convertirme en una mejor administradora de datos 💪✨
